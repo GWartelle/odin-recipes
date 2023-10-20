@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    font-family: "Courier New", monospace;
+    background-color: #f8fbff;
+}
+
+h1, header, main, footer, div {
+    width: 800px;
+    margin: 0 auto;
+}
+
+header, main, footer, div {
+    text-align: left;
+}
+
+img {
+    margin: 20px auto;
+}
+
+div {
+    height: 10px;
+}
+
+ul, ol {
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.odin {
+    background-color: #ff0;
+}
+
+.lasagna {
+    background-color: #fa0;
+}
+
+.chili {
+    background-color: #b20;
+}
+
+.curry {
+    background-color: #bf0;
+}
