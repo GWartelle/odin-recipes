@@ -2,9 +2,6 @@ body {
     text-align: center;
     font-family: "Courier New", monospace;
     background-color: #f8fbff;
-}
-
-h1, header, main, footer, div {
     width: 800px;
     margin: 0 auto;
 }
@@ -13,8 +10,12 @@ header, main, footer, div {
     text-align: left;
 }
 
+h1 {
+    margin-bottom: 0;
+}
+
 img {
-    margin: 20px auto;
+    margin: 10px auto;
 }
 
 div {
