@@ -13,4 +13,4 @@ Lastly I practiced git commands, and learned how to properly upload my project o
 2023-10-20
 I updated this project by including styles. Eventhough I mostly used only one type of selector, this was a great exercise to practice CSS.
 
-The trickiest parts of it were keeping the ritgh margins to the right elements, while keeping the whole thing centered.
+The trickiest parts of it were keeping the right margins to the right elements, while keeping the whole thing centered.
