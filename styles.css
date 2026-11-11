@@ -28,7 +28,8 @@ ul, ol {
 }
 
 .odin {
-    background-color: #ff0;
+    /* background-color: #ff0; */
+    background: linear-gradient(to right, #000046, #1CB5E0);
 }
 
 .lasagna {
